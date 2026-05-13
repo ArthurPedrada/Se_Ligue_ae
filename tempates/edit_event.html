@@ -1,0 +1,14 @@
+<h2>Editar compromisso</h2>
+
+<form method="POST">
+    <input type="text" name="title" value="{{ event.title }}" required>
+    <input type="date" name="date" value="{{ event.date.strftime('%Y-%m-%d') }}">
+    <input type="time" name="time" value="{{ event.time.strftime('%H:%M') }}">
+
+    <textarea name="description">{{ event.description }}</textarea>
+
+    <button type="submit">Salvar</button>
+</form>
+
+<br>
+
