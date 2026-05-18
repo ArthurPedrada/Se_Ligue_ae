@@ -1,0 +1,11 @@
+Ambientes Virtuais
+venv/
+.env
+
+Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+Banco de dados local(opcional,para não expor seus dados de teste)
+instance/
+database.db
