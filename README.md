@@ -6,7 +6,7 @@ O **Se Ligue ae!** é uma aplicação web de agenda eletrônica desenvolvida em 
 
 ## Funcionalidades
 
-* **Autenticação Completa e Segura:** Sistema de cadastro e login com senhas criptografadas.
+* **Autenticação Segura:** Sistema de cadastro e login com senhas criptografadas.
 * **Gerenciamento de Compromissos (CRUD):** Criação, visualização, edição e exclusão de eventos.
 * **Privacidade dos Dados:** Cada usuário autenticado só tem acesso e controle aos seus próprios compromissos.
 * **Alerta Inteligente:** Destaque visual automático com a tag **"HOJE"** para compromissos do dia atual.
