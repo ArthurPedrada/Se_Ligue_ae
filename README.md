@@ -53,7 +53,6 @@ GitHub: [@Saulo04](https://github.com/Saulo04)
 # 📝 Apresentação do projeto
 
 Link:
-[Nossa aprsentação](https://www.canva.com/design/DAHKtl7_JLQ/eo24eJlyAmqHrQOY-Mx8Aw/edit?utm_content=DAHKtl7_JLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+Nossa aprsentação (Momentâneamente fora do ar)
 Link do Site:
 Clique [aqui](https://se-ligue-ae.onrender.com)
