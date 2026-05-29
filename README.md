@@ -28,7 +28,7 @@ O **Se Ligue ae!** é uma aplicação web de agenda eletrônica desenvolvida em 
 
 ### Ambiente de Desenvolvimento e Cloud
 * **Ambiente de Desenvolvimento (IDE):** [Visual Studio Code](https://code.visualstudio.com/) — Utilizado para codificação, automação de testes locais e controle de versão integrado com o Git.
-* **Hospedagem de Nuvem (PaaS):** [Railway](https://railway.app/) — Plataforma utilizada para o deploy automatizado da aplicação, gerenciamento das variáveis de ambiente e fornecimento do domínio público de acesso à aplicação.
+* **Hospedagem de Nuvem (PaaS):** [Render](https://render.com/)) — Plataforma utilizada para o deploy automatizado da aplicação, gerenciamento das variáveis de ambiente e fornecimento do domínio público de acesso à aplicação.
 * **Controle de Versão:** [GitHub](https://github.com/) — Repositório remoto para versionamento seguro do código-fonte.
 ---
 
@@ -44,11 +44,11 @@ Conheça os desenvolvedores por trás do Se Ligue ae!:
 
 Arthur Gabriel Miranda Rebouças
 
-GitHub: [@ArthurPedrada] https://github.com/ArthurPedrada
+GitHub: [@ArthurPedrada](https://github.com/ArthurPedrada)
 
 Saulo Victor Ferreira Bandeira
 
-GitHub: [@Saulo04] https://github.com/Saulo04
+GitHub: [@Saulo04](https://github.com/Saulo04)
 
 # 📝 Apresentação do projeto
 
