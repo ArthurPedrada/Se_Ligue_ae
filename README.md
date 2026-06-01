@@ -53,7 +53,10 @@ GitHub: [@Saulo04](https://github.com/Saulo04)
 # 📝 Apresentação do projeto
 
 Link:
-Nossa aprsentação (Momentâneamente fora do ar)
+Nossa aprsentação
+Clique
+[aqui](https://canva.link/pymv8blugh3fwie)
 
 Link do Site:
+
 Clique [aqui](https://se-ligue-ae.onrender.com)
